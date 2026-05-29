@@ -233,7 +233,7 @@ O **ExtinctionVerse** demonstra como ambientes imersivos em 3D podem **revolucio
 | 📦 Repositório | [github.com/KaioGabriel-the/extinction_verse](https://github.com/KaioGabriel-the/Extinction-Verse.git) |
 | 🎬 Vídeo Demo | [YouTube](https://youtu.be/RSV1bJYtarE) |
 | 🎤 Vídeo Pitch | [YouTube](https://youtu.be/XQSTj8_ZhJs) |
-| 📋 Template do Desafio | [ExpoVerse — Hackweb](https://SEU_LINK_TEMPLATE) |
+| 📋 Slide do Pitch | [Slide](https://github.com/KaioGabriel-the/Extinction-Verse/blob/102fce5008513ddb7f02001bea4df345430d8021/O-Museu-dos-Gigantes-Perdidos.pdf) |
 
 ---
 
