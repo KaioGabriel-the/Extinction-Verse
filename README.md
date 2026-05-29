@@ -232,7 +232,7 @@ O **ExtinctionVerse** demonstra como ambientes imersivos em 3D podem **revolucio
 |---------|------|
 | 📦 Repositório | [github.com/KaioGabriel-the/extinction_verse](https://github.com/KaioGabriel-the/Extinction-Verse.git) |
 | 🎬 Vídeo Demo | [YouTube](https://youtu.be/RSV1bJYtarE) |
-| 🎤 Vídeo Pitch | [YouTube](https://youtu.be/SEU_LINK_PITCH) |
+| 🎤 Vídeo Pitch | [YouTube](https://youtu.be/XQSTj8_ZhJs) |
 | 📋 Template do Desafio | [ExpoVerse — Hackweb](https://SEU_LINK_TEMPLATE) |
 
 ---
