@@ -165,8 +165,6 @@ Assets/
 
 ## 🎥 Demonstração e Evidências de Funcionamento
 
-> **📌 Substitua os placeholders abaixo com seus links reais antes de submeter.**
-
 ### 🎬 Vídeo Demo
 [![Assista ao Demo](https://img.shields.io/badge/▶%20Assistir%20Demo-YouTube-red?logo=youtube)](https://youtu.be/RSV1bJYtarE)
 
