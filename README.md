@@ -111,7 +111,7 @@ Assets/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/SEU_USUARIO/extinction_verse.git
+   git clone https://github.com/KaioGabriel-the/Extinction-Verse.git
    cd extinction_verse
    ```
 
@@ -168,15 +168,9 @@ Assets/
 > **📌 Substitua os placeholders abaixo com seus links reais antes de submeter.**
 
 ### 🎬 Vídeo Demo
-[![Assista ao Demo](https://img.shields.io/badge/▶%20Assistir%20Demo-YouTube-red?logo=youtube)](https://youtu.be/SEU_LINK_AQUI)
+[![Assista ao Demo](https://img.shields.io/badge/▶%20Assistir%20Demo-YouTube-red?logo=youtube)](https://youtu.be/RSV1bJYtarE)
 
 > Demonstração completa navegando pelas 5 estações do museu, ativando os totens e visualizando os painéis informativos.
-
-### 📸 Capturas de Tela
-
-> *Adicione prints das estações, totens ativados e visão geral do museu aqui.*
-
----
 
 ## 🔄 Fluxo de Navegação (Demonstração para a Banca)
 
@@ -236,8 +230,8 @@ O **ExtinctionVerse** demonstra como ambientes imersivos em 3D podem **revolucio
 
 | Recurso | Link |
 |---------|------|
-| 📦 Repositório | [github.com/KaioGabriel-the/extinction_verse](https://github.com/KaioGabriel-the/extinction_verse) |
-| 🎬 Vídeo Demo | [YouTube](https://youtu.be/SEU_LINK_DEMO) |
+| 📦 Repositório | [github.com/KaioGabriel-the/extinction_verse](https://github.com/KaioGabriel-the/Extinction-Verse.git) |
+| 🎬 Vídeo Demo | [YouTube](https://youtu.be/RSV1bJYtarE) |
 | 🎤 Vídeo Pitch | [YouTube](https://youtu.be/SEU_LINK_PITCH) |
 | 📋 Template do Desafio | [ExpoVerse — Hackweb](https://SEU_LINK_TEMPLATE) |
 
