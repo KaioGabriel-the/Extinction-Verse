@@ -52,6 +52,8 @@ Ao entrar no museu virtual, o usuário é transportado para uma **galeria digita
 | **TextMesh Pro** | — | Renderização de texto de alta qualidade nos totens |
 | **C#** | — | Linguagem de programação dos scripts de interatividade |
 | **Android (Meta Quest OS)** | — | Plataforma alvo de deploy |
+| **Google Gemini** | Advanced | Engenharia de prompt para ideação do escopo e co-piloto na refatoração dos scripts C# (`FollowHeadset` e `TotemTrigger`) |
+| **AntiGravity AI** | — | Assistente especializado na estruturação, design visual e refinamento técnico deste arquivo README.md |
 
 ---
 
@@ -242,6 +244,7 @@ O **ExtinctionVerse** demonstra como ambientes imersivos em 3D podem **revolucio
 | **Kaio Gabriel** | Desenvolvedor VR / Unity (solo) | [@KaioGabriel-the](https://github.com/KaioGabriel-the) |
 
 ---
+
 
 ## 🎨 Créditos dos Modelos 3D
 
